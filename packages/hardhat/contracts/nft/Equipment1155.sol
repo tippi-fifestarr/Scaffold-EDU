@@ -2,8 +2,8 @@
 pragma solidity ^0.8.20;
 
 /*
-This contract has been deployed [] on Open Campus Codex at [].
-This contract has granted MINTER access to [] TestQuestApp.sol at [].
+This contract has been deployed [x] and verified [x] on Open Campus Codex at 0x8875054C87E0AD3848bd25e3e92d74147cC053fE.
+This contract has granted MINTER access to [x] TestQuestApp.sol at 0x51a77206d32c9f458022C9F3DBcc55f1843d9203.
 This contract has the following functions:
 [x] - Add new items and tier costs
 [x] - Get tier costs
